@@ -1,0 +1,8 @@
+date_key,full_date,day_of_week_name,is_weekend,is_holiday
+20250101,2025-01-01,Wednesday,false,true
+20250102,2025-01-02,Thursday,false,false
+20250103,2025-01-03,Friday,false,false
+20250104,2025-01-04,Saturday,true,false
+20250105,2025-01-05,Sunday,true,false
+20250106,2025-01-06,Monday,false,false
+20250107,2025-01-07,Tuesday,false,false

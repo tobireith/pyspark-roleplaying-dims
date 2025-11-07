@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# PySpark temp / logs
+metastore_db/
+derby.log/
+spark-warehouse/
